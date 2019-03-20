@@ -73,11 +73,4 @@ int main(void)
 		}
 	}
 	cout<<"Oh sh*t";
-
-
-
-
-
-
-
 }
