@@ -15,9 +15,6 @@ int main()
 	double res;
 	res = sqrt(pl/PI);
 	cout << res;
-
-
-	getchar();
-	getchar();
+	
 	return 0;
 }
