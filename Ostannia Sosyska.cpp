@@ -14,17 +14,7 @@ int main()
 	double volumeBall = (R*R*R*PI*4)/3;
 	double areaCylinder = 2*PI*R*H;
 	double areaBall = 4*PI*R*R;
-
-
+	
 	printf("%.7f %.7f", volumeCylinder+volumeBall, areaCylinder+areaBall);
-
-
-
-
-
-
-
-	getchar();
-	getchar();
 	return 0;
 }
