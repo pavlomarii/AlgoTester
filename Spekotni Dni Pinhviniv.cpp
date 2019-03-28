@@ -14,13 +14,6 @@ int main()
 		cout << "Forget about the cocktails, man!";
 	else
 		cout << "Three times Sex on the Beach, please!";
-
-
-
-
-
-
-	getchar();
-	getchar();
+	
 	return 0;
 }
