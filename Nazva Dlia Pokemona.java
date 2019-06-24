@@ -1,3 +1,5 @@
+package Pokemon
+
 import java.util.Scanner;
 
 public class Nazva_Dlia_Pokemona {
